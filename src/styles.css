@@ -215,6 +215,10 @@ footer a {
   text-decoration: none;
 }
 
+.filter {
+  filter: grayscale(100%);
+}
+
 .my-photos {
   margin: 30px 0;
 }
